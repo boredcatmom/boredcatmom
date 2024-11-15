@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @boredcatmom
+- 👀 I’m interested in minecraft, coding, 3d printing
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: this is not my main github account
+
+<!---
+boredcatmom/boredcatmom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
