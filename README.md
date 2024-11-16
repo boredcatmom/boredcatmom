@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boredcatmom
-- 👀 I’m interested in minecraft, coding, 3d printing
+- 👀 I’m interested in minecraft, coding, 3d printing, documentation
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: this is not my main github account
 
