@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boredcatmom
+- 👋 Hi, I’m @boredcatmom, developer and tech writer
 - 👀 I’m interested in minecraft, coding, 3d printing, documentation
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: this is not my main github account
